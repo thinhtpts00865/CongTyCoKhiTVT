@@ -1,0 +1,10 @@
+# Ignore SCSS folder
+scss/
+
+# Ignore SQL connection file
+assets/js/sqlConnection.js
+
+# Ignore package files and dependencies
+node_modules/
+package-lock.json
+package.json
