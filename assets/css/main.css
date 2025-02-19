@@ -776,6 +776,22 @@ body {
   font-family: "Roboto", sans-serif;
 }
 
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background-color: #ebebeb;
+  -webkit-border-radius: 10px;
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  -webkit-border-radius: 10px;
+  border-radius: 10px;
+  background: #c8c8c8;
+}
+
 .back-to-top {
   display: none;
   position: fixed;
@@ -1827,9 +1843,6 @@ body {
   opacity: 1;
 }
 
-.product {
-  display: none;
-}
 .product .category {
   border-radius: 2px;
 }

@@ -1,3 +1,196 @@
 {
-    "products": []
+  "Quạt Công Nghiệp": [
+    {
+      "MaMH": 1,
+      "TenMH": "Quạt Ly Tâm Áp Suất Thấp",
+      "HinhAnh": "quatlytamapsuatthap.png",
+      "Gia": null,
+      "SoLuong": 4,
+      "MoTa": "Ký Hiệu kiểu quạt:\nTruyền động trực tiếp : SDFT\nTruyền động gián tiếp : SDFB\nTHÔNG SỐ KỸ THUẬT\n- Lưu Lượng : 600 -200.000 M3/ H\n- Áp Suất toàn phần: 5 - 100 mmH,O (50 - 1000 Pa)\n- Truyền động: Trực tiếp & Gián tiếp\n- Công Suất : 0.5 - 422 HP\nĐặt tính:\n- Lưu lượng gió lớn, ấp suất thấp, vận hành êm, độ ổn thấp hiệu suất cao, tiêu tốn điện năng thấp\nCông Dụng:\n- Dùng cho các hệ thống hút hơi, hút nhiệt, cấp gió, thông gió điều hòa không khí nhà xướng & các nhà cao tầng. v.v.",
+      "MaLoai": 7
+    },
+    {
+      "MaMH": 2,
+      "TenMH": "Quạt Ly Tâm Áp Suất Trung",
+      "HinhAnh": "quatlytamapsuattrung.png",
+      "Gia": null,
+      "SoLuong": 7,
+      "MoTa": "Ký Hiệu kiểu quạt:\nTruyền động trực tiếp : BASFT\nTruyền động gián tiếp : BASFB\nTHÔNG SỐ KỸ THUẬT\n- Lưu Lượng : 1000 -150.000 M3/ H\n- Áp Suất : 100 - 500 mmH,O (1000 - 5000 Pa)\n- Truyền động : Trực tiếp & Gián tiếp.\n- Công Suất : 0.5 - 422 HP\nĐặc tính:\n- Lưu lượng gió lớn, áp suất trung, vận hành êm, độ ổn thấp hiệu suất cao, tiêu tốn điện năng thấp\nCông Dụng:\n- Dùng trong các hệ thống xử lý khí thải, xử lý bụi, truyền tải vật liệu rời, hút & cấp gió lò đốt lò hơi, thông gió & tạo ấp cầu thang thoát hiểm các nhà cao tầng.v. v...",
+      "MaLoai": 7
+    },
+    {
+      "MaMH": 3,
+      "TenMH": "Quạt Ly Tâm Áp Suất Trung Đôi",
+      "HinhAnh": "quatlytamapsuattrungdoi.png",
+      "Gia": null,
+      "SoLuong": 6,
+      "MoTa": "Ký Hiệu kiểu quạt: BASFD\nTHÔNG SỐ KỲ THUẬT\n- Lưu Lượng : 2000 -300.000 M3/ H\n- Áp Suất : 100 - 500 mmH,0 (1000 - 5000 Pa)\n- Công Suất : 0.5 - 422 HP\nĐặc tính:\n- Lưu lượng gió lớn, áp suất trung bình, vận hành êm, độ ồn thấp hiệu suất cao, tiêu tốn điện năng thấp.\nCông Dụng:\n- Dùng trong các hệ thống xử lý khí thải, xử lý bụi, truyền tải vật liệu rời, hút & cấp gió lò đốt lò hơi, thông gió & tạo áp cầu thang thoát hiểm các nhà cao tầng.v.v...",
+      "MaLoai": 7
+    },
+    {
+      "MaMH": 4,
+      "TenMH": "Quạt Ly Tâm Áp Suất Cao",
+      "HinhAnh": "quatlytamapsuatcao.png",
+      "Gia": null,
+      "SoLuong": 11,
+      "MoTa": "Ký Hiệu kiểu quạt: TBF\nTHÔNG SỐ KỸ THUẬT\n- Lưu Lượng : 1000 - 50.000 M3/ H\n- Áp Suất : 500 - 2000 mmH,0 (500 - 20000 Pa).\n- Công Suất : 0.5 - 422 HP\nĐặc tính:\n- Lưu lượng gió trung bình, áp suất cao, lực hút & nén lớn, hiệu suất cao tiêu tốn điện năng thấp.\nCông Dụng:\n- Dùng trong các hệ thống xử lý khí thải, xử lý bụi, truyền tải vật liệu rời, hút, cấp gió lò đốt lò cao áp, dùng trong các hệ thông nhiệt luyện & sấy khối.v.v.",
+      "MaLoai": 7
+    }
+  ],
+  "Hệ Thống Lọc Bụi": [
+    {
+      "MaMH": 5,
+      "TenMH": "Thiết Bị Lọc & Thu Bụi Di Động",
+      "HinhAnh": "thietbilocvathubuididong.png",
+      "Gia": null,
+      "SoLuong": 24,
+      "MoTa": "Ký Hiệu kiểu thiết bị: DDLB\nTHÔNG SỐ KỲ THUẬT\n- Lưu Lượng : 1000 -10.000 M3/ H\n- Áp Suất: 100 - 300 mmH,0 (1000 - 3000 Pa)\n- Công Suất : 0.5 - 7.5 HP.\nĐặc tính:\n-ục tượng gió &ử áp suất trung bình, nhỏ gọn, để ci chuyển chịện thấp, hiệu suất cao, tiêu tốn điện năng thấp.\nCông Dụng:\n-Dùng hút, lọc bụi cho các nhà xưởng có diện tích bố HimaY nhỏ & sản xuất đơn chiết",
+      "MaLoai": 6
+    }
+  ],
+  "Quạt": [
+    {
+      "MaMH": 6,
+      "TenMH": "Quạt Hướng Trục Trực Tiếp",
+      "HinhAnh": "quathuongtructructiep.png",
+      "Gia": null,
+      "SoLuong": 13,
+      "MoTa": "Ký hiệu: AXDF\nTHÔNG SỐ KĨ THUẬT\nLưu Lượng: 2000 - 120.000 M3/H\nÁp Suất: 5 - 50 mmH₂O (50-500 Pa)\nCông Suất: 0.5 - 75 HP\nĐặc tính: Lưu lượng gió lớn, áp suất thấp, hiệu suất cao tiêu tốn điện năng thấp.\nCông Dụng: Dùng cho các hệ thống hút hơi, hút nhiệt, cấp gió, thông gió điều hòa không khí nhà xưởng, hệ thống PCCC các nhà cao tầng.v.v",
+      "MaLoai": 2
+    },
+    {
+      "MaMH": 7,
+      "TenMH": "Quạt Hướng Trục Gián Tiếp",
+      "HinhAnh": "quathuongtrucgiantiep.png",
+      "Gia": null,
+      "SoLuong": 12,
+      "MoTa": "Ký hiệu: AXBF\nTHÔNG SỐ KĨ THUẬT\nLưu Lượng: 2000 - 120.000 M3/H\nÁp Suất toàn phần: 5 - 50 mmH₂O (50-500 Pa)\nÁp Suất: 5 - 50 mmH₂O (50-500 Pa)\nCông Suất: 0.5 - 75 HP\nĐặc tính: Lưu lượng gió lớn, áp suất thấp, hiệu suất cao tiêu tốn điện năng thấp.\nCông Dụng: Dùng cho các hệ thống hút hơi, cấp gió, thông gió, hệ thống hút hơi sơn điều hòa không khí nhà xưởng.v.v.",
+      "MaLoai": 2
+    },
+    {
+      "MaMH": 8,
+      "TenMH": "Quạt Thông Gió Ốp Tường Thông Dụng",
+      "HinhAnh": "quatthonggiooptuongthongdung.png",
+      "Gia": null,
+      "SoLuong": 24,
+      "MoTa": "Ký hiệu: AXBF\nTHÔNG SỐ KĨ THUẬT\nLưu Lượng: 2000 - 45.000 M3/H\nÁp Suất: 2 - 8 mmH₂O (20-80 Pa)\nCông Suất: 0.25 - 1.5 HP\nĐặc tính: Lưu lượng gió lớn, áp suất thấp, hiệu suất cao, vận hành êm tiêu tốn điện năng thấp.\nCông Dụng: Dùng hút gió, cấp gió, thông gió, làm mát nhà xưởng sản xuất & trang trại chăn nuôi.v.v",
+      "MaLoai": 2
+    }
+  ],
+  "Thiết bị làm mát": [
+    {
+      "MaMH": 9,
+      "TenMH": "Khung Giấy Cooling Pad Làm Mát Không Khí",
+      "HinhAnh": "thietbilammatkhongkhidang.png",
+      "Gia": null,
+      "SoLuong": 18,
+      "MoTa": "Ký Hiệu kiểu thiết bị: COOLP\nTHÔNG SỐ KỸ THUẬT\n- Lưu lượng: 1000 -Hàng trăm ngân M3 / H\nĐặc tính:\nLưu lượng khí cần làm mát được thiết kế theo hiện trường thực tế.\n- Thiết bị được dùng nước sạch để làm mát không khí ( Nhiệt độ làm mát đạt từ 34 - 35°C xuống 26 - 28°C ).\nCông Dụng:\n- Được dùng rộng rãi trong các nhà máy dệt may, chế biến nông thủy sản & các trang trại chăn nuôi gia súc, gia cầm.v.v.",
+      "MaLoai": 1
+    },
+    {
+      "MaMH": 10,
+      "TenMH": "Thiết Bị Cấp Gió Mát Không Khí Dạng Cục Bộ",
+      "HinhAnh": "thietbicapgiomatkhongkhidangcucbo.png",
+      "Gia": null,
+      "SoLuong": 15,
+      "MoTa": "Ký Hiệu kiểu thiết bị: COOLPB\nTHÔNG SỐ KỸ THUẬT\n- Lưu lượng : 1000 - 100.000 M3 / H.\nĐặc tính:\n- Lưu lượng khí cần làm mát được thiết kế theo hiện trường thực tế.\n- Thiết bị được dùng nước sạch để làm mát không khí ( Nhiệt độ làm mát đạt từ 34 - 35°C xuống 26 - 28°C)\n- Thiết bị cấp gió theo kiểu cục bộ, hiệu suất cao, tiêu thụ điện năng thấp.\nCông Dụng:\n- Được dùng rộng rãi trong các nhà máy dệt may, chế biến nông thủy sán .v.v.\n",
+      "MaLoai": 1
+    },
+    {
+      "MaMH": 11,
+      "TenMH": "Thiết Bị Lọc Bụi và Hơi Sơn Kiểu Ướt",
+      "HinhAnh": "thietbilocbuivahoisonkieuuot.png",
+      "Gia": null,
+      "SoLuong": 6,
+      "MoTa": "Ký Hiệu kiểu thiết bị: WALS\nTHÔNG SỐ KỲ THUẬT\n- Kích thước chiều dài tiêu chuẩn: 1,2,3,4,6,8m\n- Lưu lượng : 6000 - 60.000 M3/H\n- Công Suất : 0.5 - 20HP\nĐặc tính:\n- Kích thước & công suất thiết bị được thiết kế theo hiện trường thực tế\n- Được dùng nước, than hoạt tính để xử lý bụi & khử mùi\nCông Dụng\n- Được dùng rộng rãi cho việc phun sơn tại các xưởng gỗ , xưởng cơ khí ô tô - xe máy, xưởng nội thất, xưởng sơn & phòng thí nghiệm.",
+      "MaLoai": 1
+    }
+  ],
+  "Công nghiệp": [
+    {
+      "MaMH": 12,
+      "TenMH": "Hệ Thống Lọc Bụi Và Xử Lý Khí Thải Kiểu Ướt",
+      "HinhAnh": "hethonglocbuivaxulykhithaikieuuot.png",
+      "Gia": null,
+      "SoLuong": 17,
+      "MoTa": "Ký Hiệu kiểu quạt: WALB\nTHÔNG SỐ KỲ THUẬT\n- Lưu Lượng: 1000 -Hàng trăm ngàn M3 / H.\nĐặc tính:\n- Lưu lượng khí cần xử lý được thiết kế theo hiện trường thực tế.\n- Được dùng các hóa chất , dung môi phản ứng hóa học với khí thải độc hại để cho ra môi trường không khí sạch.\nCông Dụng:\n- Được ứng dụng xử lý bụi dễ cháy nổ, Các khí CO, CO,, H,S, H,SO, HCL, NOX...\n- Được dùng rộng rãi trong các nhà máy sản xuất phát sinh nhiều khí thải độc hại cho môi trường.v.v.",
+      "MaLoai": 4
+    },
+    {
+      "MaMH": 13,
+      "TenMH": "Thiết Bị Lọc Bụi Quán Tính (CYCLONE)",
+      "HinhAnh": "thietbilocbuiquantinh(CYCLONE).png",
+      "Gia": null,
+      "SoLuong": 2,
+      "MoTa": "Ký Hiệu kiểu quạt: CYLB\nTHÔNG SỐ KỸ THUẬT\n- Lưu Lượng: 1000 -Hàng trăm ngàn M3 / H.\nĐặc tính:\n- Lưu lượng lợc bụi được thiết kế theo hiện trường thực te\nCông Dụng:\n- Lưu lượng lọc bụi lớn hiệu suất cao & chi phí thấp.\n- Được dùng rộng rãi trong các nhà máy chế biến gỗ, gạch men & xi măng.v.v.\n",
+      "MaLoai": 4
+    },
+    {
+      "MaMH": 14,
+      "TenMH": "Thiết Bị Lọc Bụi Túi Vải (FILTER Khí Nén)",
+      "HinhAnh": "thietbilocbuituivai(FILTERKhinen).png",
+      "Gia": null,
+      "SoLuong": 3,
+      "MoTa": "Ký Hiệu kiểu quạt: FILB\nTHÔNG SỐ KỸ THUẬT\n- Lưu Lượng : 1000 -Hàng trăm ngàn M3 / H.\nĐặc tính:\n-Lưu lượng lọc bụi được thiết kế theo hiện trường thực tế.\n-Thiết bị tự động làm sạch bằng cơ học & khí nén.\nCông Dụng:\n-Lưu lượng lọc bụi lớn hiệu suất cao, hiệu quả lọc bụi với các hạt bụi có đường kính >= 1 micrômét đạt 95 - 98%.\n-Được dùng rộng rãi trong các nhà máy chế biến gỗ, thức ăn gia súc gạch men và xi măng......",
+      "MaLoai": 4
+    },
+    {
+      "MaMH": 15,
+      "TenMH": "Thiết Bị Sấy Nguyên Vật Liệu",
+      "HinhAnh": "thietbisaynguyenvatlieu.png",
+      "Gia": null,
+      "SoLuong": 7,
+      "MoTa": "Ký Hiệu kiểu quạt: STQ\nTHÔNG SỐ KỸ THUẬT\n- Công suất : 8 - 10 Tấn / Giờ.\n- Độ ẩm đạt : 2 - 12% theo yêu cầu thực tế\nĐặc tính:\n- Công suất được thiết kế theo hiện trường thực tế.\n- Được dùng khí nóng lò đốt để sấy nguyên liệu\nCông Dụng:\n- Được ứng dụng sấy dăm gỗ , thực phẩm nông sản ..\n- Được dùng rộng rãi trong các nhà máy chế biến gỗ dăm, sản xuất tinh bột mì, sản xuất thực phẩm ...",
+      "MaLoai": 4
+    },
+    {
+      "MaMH": 16,
+      "TenMH": "Băng tải cao su thực phẩm",
+      "HinhAnh": "bangtaisuthucpham.png",
+      "Gia": null,
+      "SoLuong": 19,
+      "MoTa": "- Kích thước: Năng suất & công suất được thiết kế theo hiện trường thực tế\nĐặc tính:\n- Truyền tải, vận chuyển liên tục các chi tiết có hình dạng khối hộp cố định\nCông Dụng:\n- Được dùng rộng rãi trong các nhà máy đóng gói, bao bì. v.v....",
+      "MaLoai": 4
+    },
+    {
+      "MaMH": 17,
+      "TenMH": "Băng tải cao su công nghiệp",
+      "HinhAnh": "bangtaicaosucongnghiep.png",
+      "Gia": null,
+      "SoLuong": 20,
+      "MoTa": "Kích thước: Năng suất & công suất được thiết kế theo hiện trường thực tế\nĐặc tính:\n- Truyền tải, vận chuyển liên tục các vật liệu rời dạng dăm cục & bột....\nCông Dụng:\n- Được dùng rộng rãi trong các nhà máy xi măng, sản xuất bê tông than đá & chế biến gỗ .v.v.....",
+      "MaLoai": 4
+    },
+    {
+      "MaMH": 18,
+      "TenMH": "Vít tải liệu",
+      "HinhAnh": "vittailieu.png",
+      "Gia": null,
+      "SoLuong": 14,
+      "MoTa": "- Kích thước: Năng suất & công suất được thiết kế theo hiện trường thực tế\nĐặc tính:\n- Truyền tải, vận chuyển, liên tục các vật liệu rời dạng dăm cục & bột....\nCông Dụng:\n- Được dùng rộng rãi trong các nhà máy xi măng, sản xuất bê tông than đá & chế biến gỗ .v.v.....",
+      "MaLoai": 4
+    }
+  ],
+  "Thiết bị nâng hạ": [
+    {
+      "MaMH": 19,
+      "TenMH": "Bàn nâng hạ",
+      "HinhAnh": "bannangha.png",
+      "Gia": null,
+      "SoLuong": 32,
+      "MoTa": "- Kích thước: Trọng lượng nâng được thiết kế theo hiện yêu cầu thực tế\nĐặc tính:\n- Nâng hạ vật liệu trong dây chuyền sản xuất tự động\nCông Dụng:\n- Nâng hạ ván, các chi tiết đưa vào máy công tác tự động",
+      "MaLoai": 5
+    }
+  ],
+  "Máy móc": [
+    {
+      "MaMH": 20,
+      "TenMH": "Máy sản xuất ống gió tự động",
+      "HinhAnh": "maysanxuatonggiotudong.png",
+      "Gia": null,
+      "SoLuong": 42,
+      "MoTa": "Kích thước: ống theo hiện yêu cầu thực tế\nCông Dụng:\n- Sử dụng trong các hệ thống ống hút và xử lý khí thải",
+      "MaLoai": 3
+    }
+  ]
 }

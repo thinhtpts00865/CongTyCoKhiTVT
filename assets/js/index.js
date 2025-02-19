@@ -15,8 +15,13 @@ $(document).ready(function () {
     $(".js-nav").click(function (e) {
         e.preventDefault();
         $('.js-main').show();
+        $('.carousel').show();
+        $('#about-us').show();
+        $('#why-us').show();
+        $('#contact').show();
         $('.admin').hide();
         $('.user').hide();
+        $('#product').hide();
         $('.footer').show();
 
         var target = $($(this).find("a").attr("href"));
@@ -36,6 +41,7 @@ $(document).ready(function () {
         $(".js-nav").removeClass("header__navbar-item--actived");
         $(".js-home").removeClass("header__navbar-item--actived");
         $(".js-admin").removeClass("header__navbar-item--actived");
+        $(".js-product").removeClass("header__navbar-item--actived");
         $(this).addClass("header__navbar-item--actived");
     });
 
@@ -44,7 +50,12 @@ $(document).ready(function () {
     $('.js-admin').click(function () {
         $(".js-nav").removeClass("header__navbar-item--actived");
         $(".js-admin").addClass("header__navbar-item--actived");
-        $('.js-main').hide();
+        $(".js-product").removeClass("header__navbar-item--actived");
+        $('.carousel').hide();
+        $('#about-us').hide();
+        $('#why-us').hide();
+        $('#contact').hide();
+        $('#product').hide();
         $('.admin').show();
         $('.user').hide();
         $('.footer').hide();
@@ -54,10 +65,30 @@ $(document).ready(function () {
     $('.js-user').click(function () {
         $(".js-nav").removeClass("header__navbar-item--actived");
         $(".js-admin").removeClass("header__navbar-item--actived");
-        $('.js-main').hide();
+        $(".js-product").removeClass("header__navbar-item--actived");
+        $('.carousel').hide();
+        $('#about-us').hide();
+        $('#why-us').hide();
+        $('#contact').hide();
+        $('#product').hide();
         $('.admin').hide();
         $('.user').show();
         $('.footer').hide();
+    });
+
+    $('#product').hide();
+    $('.js-product').click(function () {
+        $(".js-nav").removeClass("header__navbar-item--actived");
+        $(".js-admin").removeClass("header__navbar-item--actived");
+        $(".js-product").addClass("header__navbar-item--actived");
+        $('.carousel').hide();
+        $('#about-us').hide();
+        $('#why-us').hide();
+        $('#contact').hide();
+        $('#product').show();
+        $('.admin').hide();
+        $('.user').hide();
+        $('.footer').show();
     });
 
     // Back to top
